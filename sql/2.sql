@@ -1,0 +1,1 @@
+SELECT * FROM table1 WHERE country_code LIKE 'N%';
